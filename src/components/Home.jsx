@@ -35,8 +35,21 @@ const Home = () => {
     <div>
         <h1>Brands</h1>
         <article>
-            <div>
-
+            <div style={{animationDelay:'0.3s'}}>
+                <AiFillGoogleCircle />
+                <p>Google</p>
+            </div>
+            <div style={{animationDelay:'0.3s'}}>
+                <AiFillAmazonCircle />
+                <p>Amazon</p>
+            </div>
+            <div style={{animationDelay:'0.3s'}}>
+                <AiFillYoutube />
+                <p>Youtube</p>
+            </div>
+            <div style={{animationDelay:'0.3s'}}>
+                <AiFillInstagram />
+                <p>Instagram</p>
             </div>
         </article>
     </div>
