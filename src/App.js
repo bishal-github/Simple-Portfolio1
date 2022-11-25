@@ -11,6 +11,7 @@ import './styles/header.scss'
 import './styles/home.scss'
 import './styles/foooter.scss'
 import './styles/contact.scss'
+import './styles/mediaquery.scss'
 
 
 function App() {
